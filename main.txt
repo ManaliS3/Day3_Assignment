@@ -10,9 +10,5 @@ Pramod
 Yaseen
 Nikhil 
 Suyog
-<<<<<<< HEAD
-Vishal
--------end-------
-=======
 Vishal :- hi this is vishal
->>>>>>> b0387bd5f90f2b6fbbddae7fc4f443a07531c892
+Yaseen added new line
