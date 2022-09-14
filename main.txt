@@ -6,6 +6,8 @@ Gayatri Tupe
 Purva
 =======
 Gayatri 
+Purva
+Disha : Hello......!
 Purva Lokare
 >>>>>>> 00ff4f740e263c30cb94e58f306132bbbb50371a
 Disha
@@ -15,9 +17,6 @@ Pramod
 Yaseen
 Nikhil 
 Suyog
-<<<<<<< HEAD
-Vishal
--------end-------
-=======
 Vishal :- hi this is vishal
->>>>>>> b0387bd5f90f2b6fbbddae7fc4f443a07531c892
+Yaseen added new line
+This Line added by vishal
