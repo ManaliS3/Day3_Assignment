@@ -2,7 +2,7 @@ This is Assignment of Day 3:
 Team Members:
 Manali 
 <<<<<<< HEAD
-Gayatri 
+Gayatri Tupe
 Purva
 =======
 Gayatri 
