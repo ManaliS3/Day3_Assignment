@@ -1,15 +1,10 @@
 This is Assignment of Day 3:
 Team Members:
 Manali 
-<<<<<<< HEAD
-Gayatri 
 Purva
-=======
-Gayatri Tupe(Modified here)
-Purva
+Gayatri Tupe
 Disha : Hello......!
 Purva Lokare
->>>>>>> 00ff4f740e263c30cb94e58f306132bbbb50371a
 Disha
 Manjiri
 Santosh
